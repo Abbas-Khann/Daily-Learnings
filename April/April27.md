@@ -2,7 +2,7 @@ April 26 Learnings (React Project: Day 54)
 
 - The important concept of Props :
 
-				   		    - Props help us in making functionalities dynamic.
+- Props help us in making functionalities dynamic.
 
 
 Quiz questions for Props: 
@@ -26,7 +26,7 @@ props are like parameters that can be used in passing in data dynamically
 
 
 3. Can I pass a custom prop (e.g. blahblahblah={true}) to a native
-   DOM element? (e.g. <div blahblahblah={true}>) Why or why not?
+   DOM element? e.g. ```<div blahblahblah={true}>``` If yes Why and if no then why not?
    
    
 No, because the JSX we use to describe native DOM elements will
