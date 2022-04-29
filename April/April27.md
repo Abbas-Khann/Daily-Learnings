@@ -25,7 +25,7 @@ props are like parameters that can be used in passing in data dynamically
 
 
 
-3. Can I pass a custom prop (e.g. `blahblahblah={true}`) to a native
+3. Can I pass a custom prop (e.g. blahblahblah={true}) to a native
    DOM element? (e.g. <div blahblahblah={true}>) Why or why not?
    
    
